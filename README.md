@@ -1,6 +1,6 @@
 # Address Book Management System
 
-A simple C program to manage contacts with add, search, edit, delete, and view functionality. All data is saved in a CSV file (contacts.csv).
+A simple C program project to manage contacts with add, search, edit, delete, and view functionality. All data is saved in a CSV file (contacts.csv).
 
 ## Features
 
